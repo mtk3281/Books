@@ -8,10 +8,11 @@ This repository is a collection of books that cover a wide range of topics, from
 ## 📚 Book List
 
 ### 1. **Software Engineering Foundations** 🛠️
-- **The Pragmatic Programmer: Your Journey to Mastery (20th Anniversary Edition)**
-- **Clean Code: A Handbook of Agile Software Craftsmanship**
-- **Refactoring: Improving the Design of Existing Code**
-- **Growing Object-Oriented Software, Guided by Tests**
+- **[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-20th-Anniversary-Edition/dp/0135957052)**: Learn timeless tips and tricks to enhance your programming journey.
+- **[Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)**: A guide to writing maintainable, clear, and efficient code.
+- **[Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0134757599)**: Techniques for improving the structure of your existing codebase.
+- **[Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627)**: Build robust, test-driven systems with confidence.
+
 
 ### 2. **Software Design and Architecture** 🎨
 - **Head First Design Patterns**
