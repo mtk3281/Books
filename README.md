@@ -29,7 +29,7 @@ This repository is a collection of books that cover a wide range of topics, from
 
 ---
 
-### 4. **Django and Web Development (Including Books You've Read)** 🌐  
+### 4. **Django and Web Development** 🌐  
 - **[Django for Beginners](https://www.amazon.com/Django-Beginners-Build-websites-Python/dp/1735467225)**: A beginner-friendly guide to building web applications with Django.  
 - **[Two Scoops of Django 3.x](https://www.amazon.com/Two-Scoops-Django-3-Best-Practices/dp/1736430402)**: Best practices for writing clean, maintainable Django code.  
 - **[Building RESTful Python Web Services](https://www.amazon.com/Building-RESTful-Python-Web-Services/dp/1789532223)**: Learn how to create RESTful APIs using Python and Django.  
