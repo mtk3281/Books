@@ -43,9 +43,9 @@ This repository is a collection of books that cover a wide range of topics, from
 
 ---
 ### 5. **React and JavaScript** 🌟  
-- **[Wieruch R. - The Road to React (2024)](https://www.amazon.com/Road-React-JavaScript-Book-2024/dp/B0BMN4RYCQ)**: A comprehensive guide to learning React.js from scratch.  
-- **[Haverbeke M. - Eloquent JavaScript (4th Edition, 2024)](https://www.amazon.com/Eloquent-JavaScript-4ed-2024/dp/B0BRX3HTKL)**: Dive into the essentials of JavaScript programming.  
-- **[Alex Banks & Eve Porcello - Learning React: Modern Patterns for Developing React Apps (2020)](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721)**: Master modern React development with practical patterns and examples.
+- **[Wieruch R. - The Road to React (2024)](https://www.amazon.in/Road-learn-React-pragmatic-React-js-ebook/dp/B077HJFCQX)**: A comprehensive guide to learning React.js from scratch.  
+- **[Haverbeke M. - Eloquent JavaScript (4th Edition, 2024)](https://www.amazon.in/Eloquent-JavaScript-4th-Marijn-Haverbeke-ebook/dp/B0D9J9QWK9)**: Dive into the essentials of JavaScript programming.  
+- **[Alex Banks & Eve Porcello - Learning React: Modern Patterns for Developing React Apps (2020)](https://www.amazon.in/Learning-React-2e-Eve-Porcello/dp/1492051721)**: Master modern React development with practical patterns and examples.
 
 ---
 
