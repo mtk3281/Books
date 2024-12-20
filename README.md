@@ -42,15 +42,21 @@ This repository is a collection of books that cover a wide range of topics, from
 - **[Django for Professionals](https://www.amazon.com/Django-Professionals-Building-Applications-Django/dp/1735467241)**: Advanced topics for building production-ready Django applications.
 
 ---
+### 5. **React and JavaScript** 🌟  
+- **[Wieruch R. - The Road to React (2024)](https://www.amazon.com/Road-React-JavaScript-Book-2024/dp/B0BMN4RYCQ)**: A comprehensive guide to learning React.js from scratch.  
+- **[Haverbeke M. - Eloquent JavaScript (4th Edition, 2024)](https://www.amazon.com/Eloquent-JavaScript-4ed-2024/dp/B0BRX3HTKL)**: Dive into the essentials of JavaScript programming.  
+- **[Alex Banks & Eve Porcello - Learning React: Modern Patterns for Developing React Apps (2020)](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051721)**: Master modern React development with practical patterns and examples.
 
-### 5. **Advanced System Topics** 🔧  
+---
+
+### 6. **Advanced System Topics** 🔧  
 - **[Modern Operating Systems (4th Edition)](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)**: Comprehensive coverage of modern OS concepts and implementation.  
 - **[Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/0132392275)**: Explore the foundations of distributed systems and algorithms.  
 - **[Computer Networking: Principles, Protocols, and Practice](https://www.amazon.com/Computer-Networking-Principles-Protocols-Practice/dp/1549985396)**: A practical approach to understanding computer networking concepts.
 
 ---
 
-### 6. **Data and Performance** 📊  
+### 7. **Data and Performance** 📊  
 - **[Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)**: Learn how to build scalable, high-performing data systems.  
 - **[The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons!](https://www.amazon.com/Essentials-Modern-Software-Engineering-Prisons/dp/0136524036)**: Rethink software engineering practices for maximum productivity.
 
@@ -91,18 +97,23 @@ Start with the basics of Django and progressively move into more advanced topics
 - **Django for APIs (with Python and Django 4.0)**
 - **Django for Professionals (with Python and Django 4.0)**
 
-### 5. **Advanced System Concepts** 🔧
+
+### 5. **React and JavaScript** 🌟  
+- **Wieruch R. - The Road to React (2024)**: A comprehensive guide to learning React.js from scratch.  
+- **Haverbeke M. - Eloquent JavaScript (4th Edition, 2024)**: Dive into the essentials of JavaScript programming.  
+- **Alex Banks & Eve Porcello - Learning React: Modern Patterns for Developing React Apps (2020)**: Master modern React development with practical patterns and examples.
+
+### 6. **Advanced System Concepts** 🔧
 For deeper knowledge on systems, networking, and performance:
 - **Modern Operating Systems (4th Edition)**
 - **Distributed Systems: Principles and Paradigms**
 - **Computer Networking: Principles, Protocols, and Practice**
 
-### 6. **Data-Intensive Applications & Performance** 📊
+### 7. **Data-Intensive Applications & Performance** 📊
 Learn how to optimize data-intensive applications and improve system performance:
 - **Designing Data-Intensive Applications**
 - **The Essentials of Modern Software Engineering: Free the Practices from the Method Prisons!**
 
----
 
 ## 📥 How to Use This Repository
 
